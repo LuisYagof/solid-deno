@@ -3,7 +3,7 @@
 ![Solid](/src/assets/solid.svg 'Solid')
 ![Vite](/public/vite.svg 'Vite')
 
-This is an __SolidJS__ app built with __Deno__ v.2.0
+This is a __SolidJS__ app built with __Deno__ v.2.0
 
 
 ## Global dependencies
